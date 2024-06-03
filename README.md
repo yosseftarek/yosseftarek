@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi there, I'm John Doe 👋
+I'm a passionate Full Stack Developer with a love for building web applications and exploring new technologies.
 
+## 🛠️ Technologies & Tools
+- **Languages**: JavaScript, c++,java
+- **Frameworks**: React, Node.js
+- **Tools**: Git
 <!--
 **yosseftarek/yosseftarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
