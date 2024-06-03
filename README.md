@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Youssef Tarek 👋
 I'm a passionate Full Stack Developer with a love for building web applications and exploring new technologies.
 
 ## 🛠️ Technologies & Tools
